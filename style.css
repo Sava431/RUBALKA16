@@ -1,0 +1,32 @@
+body{
+	background-color:lightblue;
+	
+	font-family:sans-serif;
+}
+rubik-glitch pop-regular {
+  font-family: "Rubik Glitch Pop", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1 {
+	text-align:center;
+}
+p {
+	text-align:justify;
+}
+table {
+	border : 1px solid green;
+	border-collapse:collapse;
+}
+th,td {
+	border : 1px solid green;
+}
+h1,h2 {
+	color: blue;
+	font-family:Rubik Glitch Pop;
+}
+ul {list-style:url('рыба 24.png');
+	
+}
